@@ -20,10 +20,10 @@ module.exports = {
           darkYellow: "#F2A742",
           orange: "#C45500",
           hoverOrange: "#B65B22",
+          grey: "#DDDDDD",
+          darkGrey: "#C9CCCC",
+          disabledGrey: "#565959",
         },
-        grey: "#DDDDDD",
-        darkGrey: "#C9CCCC",
-        disabledGrey: "#565959",
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
